@@ -1,0 +1,2 @@
+beginner_tutorials:libuvc_ros/libuvc_camera:libuvc_ros/libuvc_ros:my_first_ros_pkg:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials_action:ros_tutorials_service:ros_tutorials_topic
+-DCATKIN_DEVEL_PREFIX=/home/simileciwh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/simileciwh/catkin_ws/install -G Unix Makefiles
